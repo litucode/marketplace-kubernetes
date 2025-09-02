@@ -15,6 +15,7 @@ This project provides a simplified client for interacting with Kubernetes cluste
 ### Prerequisites
 
 - Kubernetes cluster access (local or remote)
+- Golang +1.21
 - More when i programming the rest... 
 
 ## Documentation
